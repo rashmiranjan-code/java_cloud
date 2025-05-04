@@ -1,6 +1,7 @@
 package org.javacloud.string;
 
 public class CountVowelConsonant {
+    //easy
     public static void main(String[] args) {
         String s="cuttack fdfdwfw ae i o ffs u";
         char[] ch=s.toCharArray();

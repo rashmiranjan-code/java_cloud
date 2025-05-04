@@ -1,5 +1,5 @@
 package org.javacloud.oops;
-
+//easy
 public class BookTest {
     public static void main(String[] args) {
         Books books=new Books("54C65","the subconcious mind","grek lee",550);

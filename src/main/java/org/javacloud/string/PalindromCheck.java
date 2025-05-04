@@ -1,5 +1,6 @@
 package org.javacloud.string;
 
+
 public class PalindromCheck {
     public static void main(String[] args) {
         String orginalString = "madam";

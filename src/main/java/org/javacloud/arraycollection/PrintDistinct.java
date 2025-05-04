@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 public class PrintDistinct {
+    //took time to think
     public static void main(String[] args) {
         int[] arr = {45, 12, -3, 45, 1, 11, 12, -3};
         List<Integer> numberList=new ArrayList<>();

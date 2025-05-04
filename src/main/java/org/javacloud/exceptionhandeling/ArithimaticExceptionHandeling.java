@@ -1,7 +1,7 @@
 package org.javacloud.exceptionhandeling;
 
 import java.util.Scanner;
-
+//easy
 public class ArithimaticExceptionHandeling {
     public  static int divideTwoNumber(int a,int b){
         int result=0;

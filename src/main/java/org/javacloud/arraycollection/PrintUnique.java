@@ -2,7 +2,7 @@ package org.javacloud.arraycollection;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//done it with minimal thinking took help on Map.Entry<Integer, Integer> hs : occMap.entrySet()) how to itterate hashmap
 public class PrintUnique {
     public static void main(String[] args) {
         int[] arr = {45, 12, -3, 45, 1, 11, 12, -3};

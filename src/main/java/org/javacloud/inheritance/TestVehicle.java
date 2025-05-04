@@ -1,5 +1,5 @@
 package org.javacloud.inheritance;
-
+//easy
 public class TestVehicle {
     public static void main(String[] args) {
 
